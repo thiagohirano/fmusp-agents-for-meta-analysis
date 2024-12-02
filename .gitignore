@@ -31,6 +31,12 @@ debug.log
 # Testing
 coverage/
 
+
+# Generated files
+meta_analysis_data.json
+candidates.json
+
+
 # Optional: Uncomment based on your needs
 # .next/           # Next.js
 # .nuxt/           # Nuxt.js
