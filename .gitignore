@@ -1,0 +1,38 @@
+# Dependencies
+node_modules/
+vendor/
+.pnp/
+.pnp.js
+
+# Build outputs
+dist/
+build/
+out/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Debug logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+debug.log
+
+# Testing
+coverage/
+
+# Optional: Uncomment based on your needs
+# .next/           # Next.js
+# .nuxt/           # Nuxt.js
+# .cache/          # Gatsby
+# public/          # CRA public assets 
